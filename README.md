@@ -25,7 +25,7 @@
 
 
 # 📊 GitHub Stats:
-<table>
+<table width="100%" align="center">
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=1-SubhamSingh&theme=neon-palenight&hide_border=true&card_width=705">
