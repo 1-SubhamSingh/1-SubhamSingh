@@ -36,7 +36,8 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1-SubhamSingh&theme=2077">
      </td>
    </tr>
-</table><table>
+</table>
+<table width="100%" align="center">f
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1-SubhamSingh&theme=aura_dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1-SubhamSingh&theme=aura_dark"></td>
