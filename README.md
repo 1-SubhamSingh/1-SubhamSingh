@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/subham-singh-91b751200/">Subham Singh</a></h1>
-<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" alt="Profile Image" width="300"/>
+
 
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=1-SubhamSingh&label=Profile+views&style=for-the-badge&color=green)
+<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" alt="Profile Image" width="350"/>
 
 - 🔭 I’m currently working on Solidity and Blockchain.
 - 🌱 I’m currently learning backend development
@@ -10,7 +11,7 @@
 - 💎 Hard work + Quick Adaptation + Critical Thinking.
 - 🌎 I Know English, Hindi, Bengali.
 - ⚡ Hobbies: Chess, Open Source, gazing at sky.
-- 📍 Location: India
+- 📍  Location: India
 
 
 ### 🌐 Socials:
