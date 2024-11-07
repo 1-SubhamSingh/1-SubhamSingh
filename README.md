@@ -37,7 +37,7 @@
      </td>
    </tr>
 </table>
-<table width="100%" align="center">f
+<table width="100%" align="center">
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1-SubhamSingh&theme=aura_dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1-SubhamSingh&theme=aura_dark"></td>
